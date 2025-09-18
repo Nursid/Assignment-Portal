@@ -351,14 +351,6 @@ npm test         # Run tests (placeholder)
 5. Use PM2 or similar process manager
 6. Set up proper logging and monitoring
 
-## Health Check
-
-The API provides a health check endpoint:
-
-```http
-GET /health
-```
-
 Returns server status and basic information.
 
 ## Contributing
